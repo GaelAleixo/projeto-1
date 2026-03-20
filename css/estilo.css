@@ -20,6 +20,6 @@ p{
 footer p{
     font-size: small; /* Altera todos os p no elemento footer*/
 }
-.paragrafo_medio{ /* . chama a classe pelo nome OBS: Vários elementos podem pertencer à mesma classe*/
+.paragrafo_medio{ /* . chama a classe pelo nome OBS: Vários elementos podem pertencer à mesma classe - comentário salvo*/
     color: yellow;
 }
