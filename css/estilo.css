@@ -1,4 +1,25 @@
 header{
     background-color: aquamarine; /* Estilo que colore o background do header */
-    
+    color: blue;
 } 
+h1 {background-color: beige;
+    color: blue;
+}
+main {
+    background-color: brown;
+    color: bisque;
+}
+#contato { /* # chama a o id pelo nome - OBS: O id é único*/
+    background-color: black;
+    color: aquamarine;
+}
+p{
+    font-size: x-large; /* Altera todos os elementos p */
+}
+
+footer p{
+    font-size: small; /* Altera todos os p no elemento footer*/
+}
+.paragrafo_medio{ /* . chama a classe pelo nome OBS: Vários elementos podem pertencer à mesma classe*/
+    color: yellow;
+}
